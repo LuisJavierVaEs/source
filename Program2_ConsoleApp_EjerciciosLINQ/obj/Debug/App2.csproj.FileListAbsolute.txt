@@ -1,0 +1,15 @@
+C:\Users\NextClick\source\repos\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\NextClick\source\repos\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ConsoleApp2_ListasEstadoAlumnos\bin\Debug\App2.exe.config
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ConsoleApp2_ListasEstadoAlumnos\bin\Debug\App2.exe
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ConsoleApp2_ListasEstadoAlumnos\bin\Debug\App2.pdb
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ConsoleApp2_ListasEstadoAlumnos\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ConsoleApp2_ListasEstadoAlumnos\obj\Debug\App2.exe
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ConsoleApp2_ListasEstadoAlumnos\obj\Debug\App2.pdb
+C:\Users\adriana\source\repos\Program2_ConsoleApp_ListasEstadoAlumnos\bin\Debug\App2.exe.config
+C:\Users\adriana\source\repos\Program2_ConsoleApp_ListasEstadoAlumnos\bin\Debug\App2.exe
+C:\Users\adriana\source\repos\Program2_ConsoleApp_ListasEstadoAlumnos\bin\Debug\App2.pdb
+C:\Users\adriana\source\repos\Program2_ConsoleApp_ListasEstadoAlumnos\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\adriana\source\repos\Program2_ConsoleApp_ListasEstadoAlumnos\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\adriana\source\repos\Program2_ConsoleApp_ListasEstadoAlumnos\obj\Debug\App2.exe
+C:\Users\adriana\source\repos\Program2_ConsoleApp_ListasEstadoAlumnos\obj\Debug\App2.pdb
