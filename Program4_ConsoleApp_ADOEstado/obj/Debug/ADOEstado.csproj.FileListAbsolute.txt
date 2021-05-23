@@ -1,0 +1,13 @@
+C:\Users\NextClick\source\repos\ADOEstado\bin\Debug\ADOEstado.exe.config
+C:\Users\NextClick\source\repos\ADOEstado\bin\Debug\ADOEstado.exe
+C:\Users\NextClick\source\repos\ADOEstado\bin\Debug\ADOEstado.pdb
+C:\Users\NextClick\source\repos\ADOEstado\obj\Debug\ADOEstado.csproj.CoreCompileInputs.cache
+C:\Users\NextClick\source\repos\ADOEstado\obj\Debug\ADOEstado.exe
+C:\Users\NextClick\source\repos\ADOEstado\obj\Debug\ADOEstado.pdb
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ADOEstado\obj\Debug\ADOEstado.csprojAssemblyReference.cache
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ADOEstado\obj\Debug\ADOEstado.csproj.CoreCompileInputs.cache
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ADOEstado\obj\Debug\ADOEstado.exe
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ADOEstado\obj\Debug\ADOEstado.pdb
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ADOEstado\bin\Debug\ADOEstado.exe.config
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ADOEstado\bin\Debug\ADOEstado.exe
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\ADOEstado\bin\Debug\ADOEstado.pdb

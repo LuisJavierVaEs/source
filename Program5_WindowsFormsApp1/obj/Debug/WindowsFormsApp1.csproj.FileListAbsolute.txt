@@ -1,0 +1,17 @@
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\NextClick\Documents\DiplomadoNet\Introduccion.Net\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\adriana\source\repos\Program5_WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\adriana\source\repos\Program5_WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\adriana\source\repos\Program5_WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\adriana\source\repos\Program5_WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\adriana\source\repos\Program5_WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\adriana\source\repos\Program5_WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\adriana\source\repos\Program5_WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\adriana\source\repos\Program5_WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\adriana\source\repos\Program5_WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
